@@ -1,10 +1,11 @@
 {
-  "projects": [
+  "articles": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "title": "Norris beats Verstappen for breakthrough maiden F1 victory in action-packed Miami Grand Prix",
+      "subtitle": "McLaren driver Lando Norris added his name to the list of Formula 1 race winners with a sensational breakthrough victory in Sundays Miami Grand Prix, overhauling Red Bull rival Max Verstappen to take the chequered flag.",
+      "text": "Norris ran sixth in the early stages of the race, with fast-starting team mate Oscar Piastri the McLaren man who initially looked most likely to cause an upset,but a Safety Car at the midway point played perfectly into the Briton’s hands after he extended his opening stint.Norris emerged from the pits in the lead, with Verstappen demoted to second after stopping under normal racing conditions, and despite an initial attack from the latter at the restart, the Briton managed to maintain the position and then edge clear.A cool, calm and collected performance thereafter, and balance problems for Verstappen, meant there was no stopping Norris from banishing the demons of his near-miss at the 2021 Russian Grand Prix and becoming a race winner at the 110th time of asking.Verstappen settled for second amid his relative struggles behind the wheel, while Charles Leclerc completed the podium ahead of Ferrari team mate Carlos Sainz, who clashed with Piastri late on in an incident that sent the Australian back into the pits for a new front wing.",
+      "text1":"Sergio Perez wound up fifth in the second of the Red Bulls, having completed another stop under the Safety Car, as Lewis Hamilton and George Russell salvaged some solid points on a challenging weekend for Mercedes in sixth and eighth respectively.Yuki Tsunoda gave RB another reward in seventh, while Aston Martins Fernando Alonso crossed the line ninth and Esteban Ocon capitalised on Piastris problems to finish 10th and score a morale-boosting first point of the season for the Alpine team.Haas had been on course for another top-10 result in the opening exchanges, only for Nico Hulkenberg to slip down the order as the race developed, leaving him 11th at the flag from the other Alpine machine of Pierre Gasly.Piastri battled his way back up to 13th after that aforementioned front wing change, albeit being warned by McLaren not to spark another incident and Safety Car period as Norris led, clearing Zhou Guanyu’s Kick Sauber just before the finish.After starring in the Sprint, Daniel Ricciardo could do no more than 15th on Grand Prix day, followed by Valtteri Bottas (Kick Sauber) and Lance Stroll (Aston Martin), whose fierce battle with Williams rival Alex Albon saw him earn a 10-second time penalty for leaving the track and gaining an advantage."
     },
     {
       "id": 2,
@@ -13,7 +14,7 @@
       "userId": 1
     }
   ],
-  "tasks": [
+  "driver": [
     {
       "id": 1,
       "projectId": 1,
