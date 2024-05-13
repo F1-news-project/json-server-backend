@@ -131,7 +131,7 @@
       "round": 7,
       "startDate": "5/17/2024",
       "endDate": "5/19/2024",
-      "location": "Italy",
+      "location": "Italy"
     },
     {
       "id": 2,
@@ -139,7 +139,7 @@
       "round": 8,
       "startDate": "5/24/2024",
       "endDate": "5/26/2024",
-      "location": "Monaco",
+      "location": "Monaco"
     },
     {
       "id": 3,
@@ -147,7 +147,7 @@
       "round": 9,
       "startDate": "6/7/2024",
       "endDate": "6/9/2024",
-      "location": "Canada",
+      "location": "Canada"
     },
     {
       "id": 4,
@@ -155,7 +155,7 @@
       "round": 10,
       "startDate": "6/21/2024",
       "endDate": "6/23/2024",
-      "location": "Spain",
+      "location": "Spain"
     },
     {
       "id": 5,
