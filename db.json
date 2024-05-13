@@ -26,102 +26,122 @@
     {
       "id": 1,
       "name": "Max Verstappen",
-      "worldTitles": 3
+      "worldTitles": 3,
+      "image": "./images/verstappen.avif"
     },
     {
       "id": 2,
       "name": "Sergio Perez",
-      "worldTitles": 0
+      "worldTitles": 0,
+      "image": "./images/perez.avif"
     },
     {
       "id": 3,
       "name": "Charles Leclerc",
-      "worldTitles": 0
+      "worldTitles": 0,
+      "image": "./images/leclerc.avif"
     },
     {
       "id": 4,
       "name": "Lando Norris",
-      "worldTitles": 0
+      "worldTitles": 0,
+      "image": "./images/norris.avif"
     },
     {
       "id": 5,
       "name": "Carlos Sainz",
-      "worldTitles": 0
+      "worldTitles": 0,
+      "image": "./images/sainz.avif"
     },
     {
       "id": 6,
       "name": "Oscar Piastri",
-      "worldTitles": 0
+      "worldTitles": 0,
+      "image": "./images/piastri.avif"
     },
     {
       "id": 7,
-      "name": "George Russel",
-      "worldTitles": 0
+      "name": "George Russell",
+      "worldTitles": 0,
+      "image": "./images/russell.avif"
     },
     {
       "id": 8,
       "name": "Fernando Alonso",
-      "worldTitles": 2
+      "worldTitles": 2,
+      "image": "./images/alonso.avif"
     },
     {
       "id": 9,
       "name": "Lewis Hamilton",
-      "worldTitles": 7
+      "worldTitles": 7,
+      "image": "./images/hamilton.avif"
     },
     {
       "id": 10,
       "name": "Yuki Tsunoda",
-      "worldTitles": 0
+      "worldTitles": 0,
+      "image": "./images/tsunoda.avif"
     },
     {
       "id": 11,
       "name": "Lance Stroll",
-      "worldTitles": 0
+      "worldTitles": 0,
+      "image": "./images/stroll.avif"
     },
     {
       "id": 12,
       "name": "Nico Hulkenberg",
-      "worldTitles": 0
+      "worldTitles": 0,
+      "image": "./images/hulkenberg.avif"
     },
     {
       "id": 13,
       "name": "Daniel Ricciardo",
-      "worldTitles": 0
+      "worldTitles": 0,
+      "image": "./images/ricciardo.avif"
     },
     {
       "id": 14,
       "name": "Esteban Ocon",
-      "worldTitles": 0
+      "worldTitles": 0,
+      "image": "./images/ocon.avif"
     },
     {
       "id": 15,
       "name": "Kevin Magnussen",
-      "worldTitles": 0
+      "worldTitles": 0,
+      "image": "./images/magnussen.avif"
     },
     {
       "id": 16,
       "name": "Alexander Albon",
-      "worldTitles": 0
+      "worldTitles": 0,
+      "image": "./images/albon.avif"
     },
     {
       "id": 17,
       "name": "Zhou Guanyu",
-      "worldTitles": 0
+      "worldTitles": 0,
+      "image": "./images/zhou.avif"
     },
     {
       "id": 18,
       "name": "Pierre Gasly",
-      "worldTitles": 0
+      "worldTitles": 0,
+      "image": "./images/gasly.avif"
     },
     {
       "id": 19,
       "name": "Valtteri Bottas",
-      "worldTitles": 0
+      "worldTitles": 0,
+      "image": "./images/bottas.avif"
     },
     {
       "id": 20,
       "name": "Logan Sargeant",
-      "worldTitles": 0
+      "worldTitles": 0,
+      "image": "./images/sargeant.avif"
     }
   ],
   "events": [
