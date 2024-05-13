@@ -42,16 +42,16 @@
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/leclerc"
     },
     {
-      "id": 4,
-      "name": "Lando Norris",
-      "worldTitles": 0,
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/norris"
-    },
-    {
       "id": 5,
       "name": "Carlos Sainz",
       "worldTitles": 0,
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/sainz"
+    },
+    {
+      "id": 4,
+      "name": "Lando Norris",
+      "worldTitles": 0,
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/norris"
     },
     {
       "id": 6,
@@ -66,22 +66,16 @@
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/russell"
     },
     {
-      "id": 8,
-      "name": "Fernando Alonso",
-      "worldTitles": 2,
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/alonso"
-    },
-    {
       "id": 9,
       "name": "Lewis Hamilton",
       "worldTitles": 7,
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/hamilton"
     },
     {
-      "id": 10,
-      "name": "Yuki Tsunoda",
-      "worldTitles": 0,
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/tsunoda"
+      "id": 8,
+      "name": "Fernando Alonso",
+      "worldTitles": 2,
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/alonso"
     },
     {
       "id": 11,
@@ -90,10 +84,10 @@
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/drivers/2024Drivers/stroll"
     },
     {
-      "id": 12,
-      "name": "Nico Hulkenberg",
+      "id": 10,
+      "name": "Yuki Tsunoda",
       "worldTitles": 0,
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/hulkenberg"
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/tsunoda"
     },
     {
       "id": 13,
@@ -102,10 +96,10 @@
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/ricciardo"
     },
     {
-      "id": 14,
-      "name": "Esteban Ocon",
+      "id": 12,
+      "name": "Nico Hulkenberg",
       "worldTitles": 0,
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/ocon"
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/hulkenberg"
     },
     {
       "id": 15,
@@ -114,16 +108,10 @@
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/magnussen"
     },
     {
-      "id": 16,
-      "name": "Alexander Albon",
+      "id": 14,
+      "name": "Esteban Ocon",
       "worldTitles": 0,
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/albon"
-    },
-    {
-      "id": 17,
-      "name": "Zhou Guanyu",
-      "worldTitles": 0,
-      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/zhou"
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/ocon"
     },
     {
       "id": 18,
@@ -132,10 +120,22 @@
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/gasly"
     },
     {
+      "id": 17,
+      "name": "Zhou Guanyu",
+      "worldTitles": 0,
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/zhou"
+    },
+    {
       "id": 19,
       "name": "Valtteri Bottas",
       "worldTitles": 0,
       "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/bottas"
+    },
+    {
+      "id": 16,
+      "name": "Alexander Albon",
+      "worldTitles": 0,
+      "image": "https://media.formula1.com/image/upload/f_auto,c_limit,q_75,w_1320/content/dam/fom-website/drivers/2024Drivers/albon"
     },
     {
       "id": 20,
