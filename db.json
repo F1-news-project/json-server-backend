@@ -27,25 +27,25 @@
       "id": 1,
       "name": "Max Verstappen",
       "worldTitles": 3,
-      "image": "./images/verstappen.avif"
+      "image": "images/verstappen.avif"
     },
     {
       "id": 2,
       "name": "Sergio Perez",
       "worldTitles": 0,
-      "image": "./images/perez.avif"
+      "image": "perez.avif"
     },
     {
       "id": 3,
       "name": "Charles Leclerc",
       "worldTitles": 0,
-      "image": "./images/leclerc.avif"
+      "image": "/images/leclerc.avif"
     },
     {
       "id": 4,
       "name": "Lando Norris",
       "worldTitles": 0,
-      "image": "./images/norris.avif"
+      "image": "./images/norris"
     },
     {
       "id": 5,
