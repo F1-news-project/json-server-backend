@@ -157,7 +157,8 @@
       "round": 1,
       "startDate": "29/02/2024",
       "endDate": "02/03/2024",
-      "location": "Bahrain"
+      "location": "Bahrain",
+      "image": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677245035/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Bahrain%20carbon.png.transform/5col/image.png"
     },
     {
       "id": 2,
@@ -165,7 +166,8 @@
       "round": 2,
       "startDate": "07/03/2024",
       "endDate": "09/03/2024",
-      "location": "Saudi Arabia"
+      "location": "Saudi Arabia",
+      "image":"https://media.formula1.com/image/upload/f_auto/q_auto/v1677245030/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Saudi%20Arabia%20carbon.png.transform/5col/image.png"
     },
     {
       "id": 3,
@@ -173,7 +175,8 @@
       "round": 3,
       "startDate": "22/03/2024",
       "endDate": "24/03/2024",
-      "location": "Australia"
+      "location": "Australia",
+      "image": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677245032/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Australia%20carbon.png.transform/5col/image.png"
     },
     {
       "id": 4,
@@ -181,7 +184,8 @@
       "round": 4,
       "startDate": "05/04/2024",
       "endDate": "07/04/2024",
-      "location": "Japan"
+      "location": "Japan",
+      "image": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677245031/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Japan%20carbon.png.transform/5col/image.png"
     },
     {
       "id": 5,
@@ -189,7 +193,8 @@
       "round": 5,
       "startDate": "19/04/2024",
       "endDate": "21/04/2024",
-      "location": "China"
+      "location": "China",
+      "image": "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/China%20carbon.png.transform/5col/image.png"
     },
     {
       "id":6,
@@ -197,7 +202,8 @@
       "round": 6,
       "startDate": "03/05/2024",
       "endDate": "05/05/2024",
-      "location": "Miami"
+      "location": "Miami",
+      "image": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677245035/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Miami%20carbon.png.transform/5col/image.png"
     },
     {
       "id": 7,
@@ -205,7 +211,8 @@
       "round": 7,
       "startDate": "17/05/2024",
       "endDate": "19/05/2024",
-      "location": "Italy"
+      "location": "Italy",
+      "image": "https://media.formula1.com/image/upload/f_auto/q_auto/v1684338005/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Emilia%20Romagna%20carbon.png.transform/5col/image.png"
     },
     {
       "id": 8,
@@ -213,7 +220,8 @@
       "round": 8,
       "startDate": "24/05/2024",
       "endDate": "26/05/2024",
-      "location": "Monaco"
+      "location": "Monaco",
+      "image": "https://media.formula1.com/image/upload/f_auto/q_auto/v1677245032/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Monte%20Carlo%20carbon.png.transform/5col/image.png"
     },
     {
       "id": 9,
@@ -221,7 +229,8 @@
       "round": 9,
       "startDate": "07/06/2024",
       "endDate": "09/06/2024",
-      "location": "Canada"
+      "location": "Canada",
+      "image": "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Canada%20carbon.png.transform/5col/image.png"
     },
     {
       "id": 10,
@@ -229,7 +238,8 @@
       "round": 10,
       "startDate": "21/06/2024",
       "endDate": "23/06/2024",
-      "location": "Spain"
+      "location": "Spain",
+      "image": "https://media.formula1.com/image/upload/f_auto/q_auto/v1680529432/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Spain%20carbon.png.transform/5col/image.png"
     },
     {
       "id":11,
@@ -237,7 +247,8 @@
       "round": 11,
       "startDate": "28/06/2024",
       "endDate": "30/06/2024",
-      "location": "Austria"
+      "location": "Austria",
+      "image": "https://media.formula1.com/image/upload/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Austria%20carbon.png.transform/5col/image.png"
     }
   ],
   "comments": [
