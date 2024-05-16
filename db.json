@@ -194,5 +194,11 @@
       "endDate": "6/30/2024",
       "location": "Austria"
     }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": ""
+    }
   ]
 }
