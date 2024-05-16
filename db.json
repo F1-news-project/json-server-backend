@@ -152,43 +152,91 @@
   ],
   "events": [
     {
-      "id": 1,
-      "title": "FORMULA 1 MSC CRUISES GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2024",
-      "round": 7,
-      "startDate": "5/17/2024",
-      "endDate": "5/19/2024",
-      "location": "Italy"
+      "id":1,
+      "title": "Bahrain International Circuit",
+      "round": 1,
+      "startDate": "29/02/2024",
+      "endDate": "02/03/2024",
+      "location": "Bahrain"
     },
     {
       "id": 2,
-      "title": "FORMULA 1 GRAND PRIX DE MONACO 2024",
-      "round": 8,
-      "startDate": "5/24/2024",
-      "endDate": "5/26/2024",
-      "location": "Monaco"
+      "title": "FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2024",
+      "round": 2,
+      "startDate": "07/03/2024",
+      "endDate": "09/03/2024",
+      "location": "Saudi Arabia"
     },
     {
       "id": 3,
-      "title": "FORMULA 1 AWS GRAND PRIX DU CANADA 2024",
-      "round": 9,
-      "startDate": "6/7/2024",
-      "endDate": "6/9/2024",
-      "location": "Canada"
+      "title": "FORMULA 1 ROLEX AUSTRALIAN GRAND PRIX 2024",
+      "round": 3,
+      "startDate": "22/03/2024",
+      "endDate": "24/03/2024",
+      "location": "Australia"
     },
     {
       "id": 4,
-      "title": "FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2024",
-      "round": 10,
-      "startDate": "6/21/2024",
-      "endDate": "6/23/2024",
-      "location": "Spain"
+      "title": "FORMULA 1 MSC CRUISES JAPANESE GRAND PRIX 2024",
+      "round": 4,
+      "startDate": "05/04/2024",
+      "endDate": "07/04/2024",
+      "location": "Japan"
     },
     {
       "id": 5,
+      "title": "FORMULA 1 LENOVO CHINESE GRAND PRIX 2024",
+      "round": 5,
+      "startDate": "19/04/2024",
+      "endDate": "21/04/2024",
+      "location": "China"
+    },
+    {
+      "id":6,
+      "title": "FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2024",
+      "round": 6,
+      "startDate": "03/05/2024",
+      "endDate": "05/05/2024",
+      "location": "Miami"
+    },
+    {
+      "id": 7,
+      "title": "FORMULA 1 MSC CRUISES GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA-ROMAGNA 2024",
+      "round": 7,
+      "startDate": "17/05/2024",
+      "endDate": "19/05/2024",
+      "location": "Italy"
+    },
+    {
+      "id": 8,
+      "title": "FORMULA 1 GRAND PRIX DE MONACO 2024",
+      "round": 8,
+      "startDate": "24/05/2024",
+      "endDate": "26/05/2024",
+      "location": "Monaco"
+    },
+    {
+      "id": 9,
+      "title": "FORMULA 1 AWS GRAND PRIX DU CANADA 2024",
+      "round": 9,
+      "startDate": "07/06/2024",
+      "endDate": "09/06/2024",
+      "location": "Canada"
+    },
+    {
+      "id": 10,
+      "title": "FORMULA 1 ARAMCO GRAN PREMIO DE ESPAÑA 2024",
+      "round": 10,
+      "startDate": "21/06/2024",
+      "endDate": "23/06/2024",
+      "location": "Spain"
+    },
+    {
+      "id":11,
       "title": "FORMULA 1 QATAR AIRWAYS AUSTRIAN GRAND PRIX 2024",
       "round": 11,
-      "startDate": "6/28/2024",
-      "endDate": "6/30/2024",
+      "startDate": "28/06/2024",
+      "endDate": "30/06/2024",
       "location": "Austria"
     }
   ],
